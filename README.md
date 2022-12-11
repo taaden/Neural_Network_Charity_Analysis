@@ -82,7 +82,10 @@
      ![image](https://user-images.githubusercontent.com/64270455/206888366-80049a03-4a15-4c09-b308-9cfbbce3579b.png)
 
 ##### Summary
-      This deep learning neural network model did not reach the target accuracy of 75%. We can conclude that the model is not performing to the targetted accuracy.           Since we are in a binary classification situation, we could use a supervised machine learning model such as the Random Forest Classifier which combines a               multitude of decision trees to generate a classified output and evaluate its performance against our deep learning model.
+      This deep learning neural network model did not reach the target accuracy of 75%. We can conclude that the model 
+      is not performing to the targetted accuracy.Since we are in a binary classification situation, we could use a 
+      supervised machine learning model such as the Random Forest Classifier which combines a multitude of decision trees
+      to generate a classified output and evaluate its performance against our deep learning model.
 
     
     
